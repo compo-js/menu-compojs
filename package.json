@@ -1,0 +1,20 @@
+{
+  "name": "menu-compojs",
+  "version": "0.0.0",
+  "description": "An illustrative example of creating a Menu component in Compo.js, with a detailed description in the comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compojs",
+    "compo",
+    "js",
+    "menu"
+  ],
+  "author": {
+    "name": "compojs.ru",
+    "email": "compo.js@mail.ru"
+  },
+  "license": "ISC"
+}
