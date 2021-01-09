@@ -1,8 +1,8 @@
 # menu-compojs
 
-![compo-menu](menu-mobile.jpg)
+![compo-menu](https://github.com/compo-js/menu-compojs/blob/main/menu-mobile.jpg)
 
-An illustrative **[example](http://compojs.ru/example)** of creating a Menu component in **[Compo.js](http://compojs.ru/)**, with a detailed description in the comments.
+An illustrative **[example](http://compojs.ru/example)** of creating a Menu component in **[CompoJS](http://compojs.ru/)**, with a detailed description in the comments.
 
 ## Install
 

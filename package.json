@@ -1,6 +1,6 @@
 {
   "name": "menu-compojs",
-  "version": "0.0.0",
+  "version": "0.1.4",
   "description": "An illustrative example of creating a Menu component in Compo.js, with a detailed description in the comments.",
   "main": "index.js",
   "scripts": {
