@@ -436,5 +436,4 @@ npm i menu-compojs
 
 ## Contacts
 
-- **[https://vk.com/compojs](https://vk.com/compojs)**
 - **[compo.js@mail.ru](mailto:compo.js@mail.ru)**
