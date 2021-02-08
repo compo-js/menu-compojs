@@ -425,11 +425,6 @@ npm i menu-compojs
 </c-menu>
 ```
 
-## Download
-
-- **[menu.zip](http://compojs.ru/dist/files/menu.zip)**
-
-
 ## Author
 
 - **[compojs.ru](http://www.compojs.ru)**
